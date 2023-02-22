@@ -9,4 +9,4 @@ Provides information regarding Nasscom Future Skills R Programming taught at VIT
 
 # Disclaimer
 * For Educational Purpose 
-* The repository is open-source licensed for the vhelp of the community.
+* The repository is made for the help of the community.
